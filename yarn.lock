@@ -1212,9 +1212,9 @@ acorn-walk@^6.1.1:
   integrity sha1-Ejy487hMIXHx9/slJhWxx4prGow=
 
 acorn@^6.0.2, acorn@^6.0.7, acorn@^6.1.1, acorn@^6.2.1:
-  version "6.4.0"
-  resolved "https://registry.npm.taobao.org/acorn/download/acorn-6.4.0.tgz#b659d2ffbafa24baf5db1cdbb2c94a983ecd2784"
-  integrity sha1-tlnS/7r6JLr12xzbsslKmD7NJ4Q=
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 address@^1.1.2:
   version "1.1.2"
@@ -7700,6 +7700,11 @@ vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.npm.taobao.org/vm-browserify/download/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
   integrity sha1-eGQcSIuObKkadfUR56OzKobl3aA=
+
+vue-cool-select@^3.5.1:
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/vue-cool-select/-/vue-cool-select-3.5.2.tgz#d1ad160e6807365d351a2e5d505caefa329dba35"
+  integrity sha512-+a5dzyp0RmfiMbW1bnhHFvK2R2nTND6cAO61WkUDCGE29pJ8GbUknBHxJHsA1uZXtGNN/xLEmUQD6wA8aVbKwQ==
 
 vue-eslint-parser@^5.0.0:
   version "5.0.0"
